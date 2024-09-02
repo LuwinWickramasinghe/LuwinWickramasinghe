@@ -1,4 +1,4 @@
-# Hello, I'm Luwin Wick 👋
+# Hello, I'm Luwin Wickramasinghe 👋
 
 - 🎓 Computer Science student
 - 💻 Working on Django and Spring Boot projects
